@@ -1,6 +1,6 @@
 # MERN-Authentication-Project
 
-Project is Live at this Link: https://main--fancy-fudge-0225e7.netlify.app/login      &&          https://mern-authentication-project.onrender.com
+Project is Live at this Link: https://fancy-fudge-0225e7.netlify.app/login      &&          https://mern-authentication-project.onrender.com
 
 To run this project on your local machine, run the 3 commands below in the terminal:
 run install
