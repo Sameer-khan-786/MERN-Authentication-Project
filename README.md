@@ -2,6 +2,10 @@
 
 Project is Live at this Link: https://main--sameerauthproject.netlify.app/login  (note: it shows an error 404 but dont worry just click on "Back to our site" an it will work fine)
 
+or 
+
+https://mern-authentication-project.onrender.com
+
 To run this project on your local machine, run the 3 commands below in the terminal:
 run install
 npm run build
